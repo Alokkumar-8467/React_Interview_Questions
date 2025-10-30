@@ -16,6 +16,9 @@ React is an open-source JavaScript library developed for building user interface
 5. Performance and Scalability
 
 # Q.2 What are the major features of react.
+
+<img width="863" height="526" alt="image" src="https://github.com/user-attachments/assets/cb610d49-f8f4-4c33-a9ae-44806d41a1c6" />
+
 ### 1. Virtual DOM: 
 React uses a virtual DOM to improve perfrmance by minimizing direct DOM manipulations. The Document Object Model (DOM) is the tree-like structure of a web page. Updating it directly is slow. React creates a Virtual DOM—a lightweight copy of the real DOM in memory. When a component's state changes, React first updates this Virtual DOM. It then uses a "diffing algorithm" to compare the new Virtual DOM with the previous one, calculates the most efficient way to update the real browser DOM, and applies only those necessary changes. This makes applications incredibly fast and responsive.
 ### 2. JSX: 
@@ -125,6 +128,7 @@ React.createElement("h1", null, "Hello, world!")
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
