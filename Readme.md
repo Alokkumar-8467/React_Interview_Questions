@@ -1,5 +1,7 @@
 # Q.1 What is react.js.
 React is an open-source JavaScript library developed for building user interfaces, particularly for single-page web applications (SPA).
+<img width="889" height="476" alt="image" src="https://github.com/user-attachments/assets/87bd044e-b170-4724-8d0c-d63249f1cd11" />
+
 
 # Q.2 The Role of React in Software Development.
 ### React provides a structured, powerful, and efficient way to build the visual, interactive part of web applications, making it one of the most important and sought-after skills in software development today.
@@ -122,6 +124,7 @@ React.createElement("h1", null, "Hello, world!")
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
