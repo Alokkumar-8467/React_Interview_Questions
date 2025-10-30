@@ -24,15 +24,13 @@ React uses a virtual DOM to improve perfrmance by minimizing direct DOM manipula
 ### 2. JSX: 
 JSX stands for JavaScript XML, which allows writing HTML in React components.
 ### 3. Components: 
-React is components-based, meaning the UI is built using reusable components.
+React is components-based, meaning the UI is built using reusable components. Instead of building a massive, complex webpage, you break the UI down into small, independent, and reusable pieces called Components. A "Button," a "SearchBar," a "UserProfile," or even an entire "Header" can be its own component. You then build complex UIs by composing these components together, like Lego bricks.
 ### 4. One-Way Data Binding: 
 Data flows in one direction, making the application easier to understand and debug.
 ### 5. High Performance: 
 React optimizes updates by using a virtual DOM and efficiently re-rendering components.
 ### 6. Unidirectional Data Flow: 
 Data flow in a single direction, which provides better control over the entire application.
-### 7. Component-Based: 
-Instead of building a massive, complex webpage, you break the UI down into small, independent, and reusable pieces called Components. A "Button," a "SearchBar," a "UserProfile," or even an entire "Header" can be its own component. You then build complex UIs by composing these components together, like Lego bricks.
 ### 8. Declarative: 
 With traditional JavaScript (the "imperative" approach), you write step-by-step instructions for how to update the UI (e.g., "find the div with ID 'message', and change its inner HTML to 'Hello!'"). With React's declarative approach, you simply describe what the UI should look like for a given state. React takes care of figuring out how to update the DOM to match that description. You say, "The UI should look like this," and React makes it happen.
 
@@ -128,6 +126,7 @@ React.createElement("h1", null, "Hello, world!")
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
