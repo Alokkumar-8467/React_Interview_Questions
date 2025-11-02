@@ -322,10 +322,23 @@ JSX is the bridge between the declarative world of UI design and the powerful, l
 <img width="597" height="528" alt="image" src="https://github.com/user-attachments/assets/0f2ebd9a-bfa5-4451-9dbc-06acf1492f52" />
 
 # Q.11 What is Arrow Function expression in JSX?
+An arrow function expression in JSX is a concise way to define inline functions directly within your JSX code. They're particularly useful for event handlers and callbacks.
 
+#### Regular Function vs Arrow Function
 
+##### Regular Function
+```
+function regulatFunction(props){
+return "Hello";
+}
+```
 
-
+##### Arrow Function
+```
+const arrowFunction = (props) => {
+return "Hello";
+}
+```
 
 
 
@@ -450,6 +463,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
