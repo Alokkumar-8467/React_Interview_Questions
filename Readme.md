@@ -84,21 +84,25 @@ React Components are the fundamental building blocks of a React application. Thi
 Components are the building block of a React application. They are reusable pieces of UI that can be nested, managed, and handled independently.
 This component-based architecture makes React powerful for building maintainable, scalable applications where you can think about each piece of your UI in isolation.
 
-Key Characteristics:
-Reusable: Write once, use multiple times with different data
-Composable: Combine small components to build larger ones
-Isolated: Each component manages its own logic and appearance
-Declarative: Describe WHAT the UI should look like, not HOW to update it.
+#### Key Characteristics:
+#### Reusable: 
+Write once, use multiple times with different data
+#### Composable: 
+Combine small components to build larger ones
+#### Isolated: 
+Each component manages its own logic and appearance
+#### Declarative: 
+Describe WHAT the UI should look like, not HOW to update it.
 
 1. Class Based Components
 2. Functional Components
 
-Main Elements in React:
-JSX - HTML-like syntax in JavaScript
-Props - Read-only data passed to components
-State - Mutable data that triggers re-renders
-Events - Handling user interactions
-Hooks - Functions for state and lifecycle features
+#### Main Elements in React:
+#### JSX - HTML-like syntax in JavaScript
+#### Props - Read-only data passed to components
+#### State - Mutable data that triggers re-renders
+#### Events - Handling user interactions
+#### Hooks - Functions for state and lifecycle features
 
 <img width="918" height="518" alt="image" src="https://github.com/user-attachments/assets/a7d81226-42a2-4c58-90d3-614c74d73189" />
 
@@ -185,6 +189,7 @@ React.createElement("h1", null, "Hello, world!")
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
