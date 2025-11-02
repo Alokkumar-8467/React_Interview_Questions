@@ -143,7 +143,7 @@ Popular SPA Frameworks
 <img width="694" height="472" alt="image" src="https://github.com/user-attachments/assets/8d5f1784-13a3-4cb6-a72f-f17600a4aff1" />
 
 
-# Q.10 What is JSX.
+# Q.10 What is the role of JSX in React?
 #### JSX stands for JavaScript XML. It allows us to write HTML elements in JavaScript and place them in the DOM without using methods like createElement() or appendChild().
 JSX (JavaScript XML) is a syntax extension for JavaScript that allows you to write HTML-like code directly in your JavaScript files. It's not HTML, but it looks similar and makes writing React components much more intuitive.
 
@@ -413,6 +413,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
