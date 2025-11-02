@@ -72,9 +72,8 @@ Large applications with many components
 Data-driven applications where data changes often
 Teams needing predictable rendering
 
+<img width="940" height="515" alt="image" src="https://github.com/user-attachments/assets/eb6878f3-bb97-4325-a355-d70666866e83" />
 
-
-<img width="944" height="664" alt="image" src="https://github.com/user-attachments/assets/b6ba1bda-1005-46cb-ae28-296ebabe9e03" />
 
 
 
@@ -170,6 +169,7 @@ React.createElement("h1", null, "Hello, world!")
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
