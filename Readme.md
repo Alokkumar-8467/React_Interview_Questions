@@ -213,6 +213,103 @@ className instead of class:
 <br></br>
 ```
 
+#### 4. Must Return a Single Parent Element
+JSX expressions must have one parent element.
+```
+// ✅ Correct - single parent
+return (
+    <div>
+        <h1>Title</h1>
+        <p>Content</p>
+    </div>
+);
+
+// ❌ Wrong - multiple top-level elements
+return (
+    <h1>Title</h1>
+    <p>Content</p>
+);
+
+// ✅ Correct - using React Fragment
+return (
+    <>
+        <h1>Title</h1>
+        <p>Content</p>
+    </>
+);
+```
+
+### Advanced JSX Patterns
+
+#### 1. Conditional Rendering
+```
+function Notification({ message, type }) {
+    return (
+        <div>
+            {message && (  // Short-circuit evaluation
+                <div className={`alert alert-${type}`}>
+                    {message}
+                </div>
+            )}
+            
+            {type === 'error' ? (
+                <ErrorIcon />
+            ) : type === 'warning' ? (
+                <WarningIcon />
+            ) : (
+                <InfoIcon />
+            )}
+        </div>
+    );
+}
+```
+
+#### 2. Rendering Lists
+```
+function ProductList({ products }) {
+    return (
+        <ul>
+            {products.map(product => (
+                <li key={product.id}>
+                    <h3>{product.name}</h3>
+                    <p>${product.price}</p>
+                    {product.isOnSale && <span className="sale">SALE!</span>}
+                </li>
+            ))}
+        </ul>
+    );
+}
+```
+
+#### 3. Children Prop
+```
+// Component that accepts children
+function Card({ title, children }) {
+    return (
+        <div className="card">
+            <h2>{title}</h2>
+            <div className="card-content">
+                {children}  {/* Content between opening and closing tags */}
+            </div>
+        </div>
+    );
+}
+
+// Using the component
+function App() {
+    return (
+        <Card title="User Profile">
+            <p>This content is passed as children</p>
+            <button>Click me</button>
+        </Card>
+    );
+}
+```
+
+JSX is the bridge between the declarative world of UI design and the powerful, logical world of JavaScript. It's what makes React components both expressive and maintainable, allowing you to build complex UIs while keeping your code readable and organized.
+
+
+
 
 
 ```
@@ -316,6 +413,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
