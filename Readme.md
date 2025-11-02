@@ -310,29 +310,9 @@ JSX is the bridge between the declarative world of UI design and the powerful, l
 
 <img width="932" height="523" alt="image" src="https://github.com/user-attachments/assets/84f9fdc2-6cd8-4b28-80bc-8dddabfef14a" />
 
+# Q 10. What is the difference between Declarative and Imperative syntax?
 
-
-
-
-
-```
-import React from 'react';
-
-const FunctionalComponents = () =>  {
-  return <h1>Hello</h1>
-}
-
-export default FunctionalComponents;
-
-                      ^
-                      |
-                      |
-
-React.createElement("h1", null, "Hello, world!")
-                      
-```    
-
-
+<img width="943" height="524" alt="image" src="https://github.com/user-attachments/assets/12098677-f732-4543-a5a4-d14a3c2f4c1a" />
 
 
 
@@ -416,6 +396,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
