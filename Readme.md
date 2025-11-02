@@ -104,6 +104,28 @@ This component-based architecture makes React powerful for building maintainable
 <img width="918" height="518" alt="image" src="https://github.com/user-attachments/assets/a7d81226-42a2-4c58-90d3-614c74d73189" />
 
 
+# Q.7 What is SPA Single page application?
+A Single Page Application (SPA) is a web application that loads a single HTML page and dynamically updates that page as the user interacts with the app, without loading entire new pages from the server.
+Key Characteristics of SPAs:
+1. Better User Experience
+
+2. Faster Interactions
+No full page reloads
+Only necessary data is transferred
+UI feels more responsive
+
+3. App-like Feel
+Works offline (with service workers)
+Push notifications
+Native-like interactions
+
+4. Separation of Concerns
+Backend: API + data logic
+Frontend: UI + user interactions
+
+<img width="664" height="506" alt="image" src="https://github.com/user-attachments/assets/09b9a20f-6e5b-448c-a183-30e31c6901a8" />
+
+
 # Q.5 Explain Class components with example.
 
 When creating a React component, the component's name must start with an upper case letter.
@@ -186,6 +208,7 @@ React.createElement("h1", null, "Hello, world!")
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
