@@ -143,7 +143,94 @@ Popular SPA Frameworks
 <img width="694" height="472" alt="image" src="https://github.com/user-attachments/assets/8d5f1784-13a3-4cb6-a72f-f17600a4aff1" />
 
 
+# Q.10 What is JSX.
+#### JSX stands for JavaScript XML. It allows us to write HTML elements in JavaScript and place them in the DOM without using methods like createElement() or appendChild().
+JSX (JavaScript XML) is a syntax extension for JavaScript that allows you to write HTML-like code directly in your JavaScript files. It's not HTML, but it looks similar and makes writing React components much more intuitive.
 
+#### Key Features and Rules of JSX
+
+##### 1. Embedding JavaScript Expressions
+You can embed any JavaScript expression inside curly braces {}.
+```
+function Greeting({ user, isLoggedIn }) {
+    return (
+        <div>
+            <h1>Hello, {isLoggedIn ? user.name : 'Guest'}!</h1>
+            <p>Current time: {new Date().toLocaleTimeString()}</p>
+            <p>Math result: {2 + 2}</p>
+        </div>
+    );
+}
+```
+
+##### 2. JSX is an Expression Too
+JSX compiles to JavaScript objects, so you can use it like any other expression.
+```
+// Conditional rendering
+function Welcome({ user }) {
+    return (
+        <div>
+            {user ? (
+                <h1>Welcome back, {user.name}!</h1>
+            ) : (
+                <h1>Please log in</h1>
+            )}
+        </div>
+    );
+}
+
+// In arrays
+function NumberList({ numbers }) {
+    return (
+        <ul>
+            {numbers.map(number => (
+                <li key={number}>{number}</li>
+            ))}
+        </ul>
+    );
+}
+```
+
+#### 3. Special Syntax Rules
+className instead of class:
+```
+// ✅ Correct
+<div className="header active">Content</div>
+
+// ❌ Wrong
+<div class="header active">Content</div>
+```
+
+```
+// ✅ Correct
+<img src="image.jpg" alt="Description" />
+<input type="text" />
+<br />
+
+// ❌ Wrong
+<img src="image.jpg" alt="Description"></img>
+<input type="text"></input>
+<br></br>
+```
+
+
+
+```
+import React from 'react';
+
+const FunctionalComponents = () =>  {
+  return <h1>Hello</h1>
+}
+
+export default FunctionalComponents;
+
+                      ^
+                      |
+                      |
+
+React.createElement("h1", null, "Hello, world!")
+                      
+```    
 
 
 
@@ -229,6 +316,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
