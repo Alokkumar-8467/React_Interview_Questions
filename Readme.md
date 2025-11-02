@@ -313,13 +313,64 @@ JSX is the bridge between the declarative world of UI design and the powerful, l
 
 <img width="932" height="523" alt="image" src="https://github.com/user-attachments/assets/84f9fdc2-6cd8-4b28-80bc-8dddabfef14a" />
 
-# Q 10. What is the difference between Declarative and Imperative syntax?
+# Q.10 What is the difference between Declarative and Imperative syntax?
 
 <img width="943" height="524" alt="image" src="https://github.com/user-attachments/assets/12098677-f732-4543-a5a4-d14a3c2f4c1a" />
 
 
 # 2. React-Basics- II 
 <img width="597" height="528" alt="image" src="https://github.com/user-attachments/assets/0f2ebd9a-bfa5-4451-9dbc-06acf1492f52" />
+
+# Q.11 What is Arrow Function expression in JSX?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -399,6 +450,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
