@@ -138,6 +138,10 @@ Popular SPA Frameworks
 
 <img width="819" height="522" alt="image" src="https://github.com/user-attachments/assets/cb7c3960-1458-4dc9-9e4c-a822fddc3804" />
 
+# Q.9 What are the Disadvantage of React?
+
+<img width="694" height="472" alt="image" src="https://github.com/user-attachments/assets/8d5f1784-13a3-4cb6-a72f-f17600a4aff1" />
+
 
 # Q.5 Explain Class components with example.
 
@@ -221,6 +225,7 @@ React.createElement("h1", null, "Hello, world!")
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
