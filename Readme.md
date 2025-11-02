@@ -308,6 +308,9 @@ function App() {
 
 JSX is the bridge between the declarative world of UI design and the powerful, logical world of JavaScript. It's what makes React components both expressive and maintainable, allowing you to build complex UIs while keeping your code readable and organized.
 
+<img width="932" height="523" alt="image" src="https://github.com/user-attachments/assets/84f9fdc2-6cd8-4b28-80bc-8dddabfef14a" />
+
+
 
 
 
@@ -413,6 +416,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
