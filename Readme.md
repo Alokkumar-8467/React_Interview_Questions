@@ -134,6 +134,9 @@ Popular SPA Frameworks
 <img width="664" height="506" alt="image" src="https://github.com/user-attachments/assets/09b9a20f-6e5b-448c-a183-30e31c6901a8" />
 
 
+# Q.8 What are the 5 advantage of React?
+
+
 # Q.5 Explain Class components with example.
 
 When creating a React component, the component's name must start with an upper case letter.
@@ -216,6 +219,7 @@ React.createElement("h1", null, "Hello, world!")
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
