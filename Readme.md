@@ -347,6 +347,12 @@ return "Hello";
 <img width="931" height="520" alt="image" src="https://github.com/user-attachments/assets/699e805b-2d74-4e2e-94c2-1625d739c68d" />
 
 
+# Q.13 How React App Load and display the components in browser? 
+<img width="931" height="521" alt="image" src="https://github.com/user-attachments/assets/bee680aa-4d7e-4601-acad-d89bdf5d056f" />
+
+<img width="933" height="522" alt="image" src="https://github.com/user-attachments/assets/a47770e6-35db-4d23-8874-f029651c21eb" />
+
+
 
 
 
@@ -463,6 +469,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
