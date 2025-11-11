@@ -355,13 +355,13 @@ return "Hello";
 <img width="912" height="402" alt="image" src="https://github.com/user-attachments/assets/af281b73-6f07-4758-87ed-6af64f61091c" />
 
 
+# Q.14 What is the difference between React and Angular?
+<img width="927" height="523" alt="image" src="https://github.com/user-attachments/assets/fb220ea0-cf5b-43fc-a9a2-dfb930547470" />
+
+<img width="706" height="378" alt="image" src="https://github.com/user-attachments/assets/14ac6b3f-684f-49e7-bf23-f04f66096b7a" />
 
 
-
-
-
-
-
+# Q.15 
 
 
 
@@ -472,6 +472,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
