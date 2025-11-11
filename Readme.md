@@ -361,10 +361,11 @@ return "Hello";
 <img width="706" height="378" alt="image" src="https://github.com/user-attachments/assets/14ac6b3f-684f-49e7-bf23-f04f66096b7a" />
 
 
-# Q.15 
+# Q.15 What are the other 5 JS frameworks other than React?
 
+<img width="878" height="528" alt="image" src="https://github.com/user-attachments/assets/d086e35a-cb83-483c-bc71-6c4b496071ae" />
 
-
+<img width="904" height="284" alt="image" src="https://github.com/user-attachments/assets/721a1629-4235-44d9-bfac-fb9ab2305273" />
 
 
 
@@ -472,6 +473,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
