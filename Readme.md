@@ -352,6 +352,9 @@ return "Hello";
 
 <img width="933" height="522" alt="image" src="https://github.com/user-attachments/assets/a47770e6-35db-4d23-8874-f029651c21eb" />
 
+<img width="912" height="402" alt="image" src="https://github.com/user-attachments/assets/af281b73-6f07-4758-87ed-6af64f61091c" />
+
+
 
 
 
@@ -469,6 +472,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
