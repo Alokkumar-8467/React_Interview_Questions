@@ -373,15 +373,9 @@ return "Hello";
 <img width="1218" height="660" alt="image" src="https://github.com/user-attachments/assets/8d01f242-0fab-4bb3-8138-3e53f86042b8" />
 
 
+# Q.17 How react provides Reusability and Composition?
 
-
-
-
-
-
-
-
-
+<img width="1225" height="663" alt="image" src="https://github.com/user-attachments/assets/c7503393-6995-4628-821f-3d62c76ea364" />
 
 
 
@@ -475,6 +469,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
