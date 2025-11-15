@@ -368,7 +368,9 @@ return "Hello";
 <img width="904" height="284" alt="image" src="https://github.com/user-attachments/assets/721a1629-4235-44d9-bfac-fb9ab2305273" />
 
 
+# Q.16 Wether React is a FrameWork or a Library? What is the difference?
 
+<img width="1218" height="660" alt="image" src="https://github.com/user-attachments/assets/8d01f242-0fab-4bb3-8138-3e53f86042b8" />
 
 
 
@@ -473,6 +475,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
