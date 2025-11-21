@@ -377,8 +377,7 @@ return "Hello";
 
 <img width="1225" height="663" alt="image" src="https://github.com/user-attachments/assets/c7503393-6995-4628-821f-3d62c76ea364" />
 
-
-
+# Q.18 What are state, stateless, stateful and state management terms?
 
 <img width="1871" height="1023" alt="image" src="https://github.com/user-attachments/assets/689d071a-d522-45b9-ae73-a59854c852ae" />
 
@@ -470,6 +469,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
