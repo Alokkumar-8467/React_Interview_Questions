@@ -390,8 +390,9 @@ return "Hello";
 # 3. React-Project- II Files & Folders 
 <img width="1194" height="854" alt="image" src="https://github.com/user-attachments/assets/518c0d35-4efb-4c6d-9498-bb5ba6cff73e" />
 
-
-
+# Q.21 What is NPM? What is the role of node_module folder? 
+ 
+<img width="1771" height="1048" alt="image" src="https://github.com/user-attachments/assets/d1deb020-0d18-477f-a42e-95ba16711908" />
 
 
 
@@ -470,6 +471,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
