@@ -394,11 +394,13 @@ return "Hello";
  
 <img width="1771" height="1048" alt="image" src="https://github.com/user-attachments/assets/d1deb020-0d18-477f-a42e-95ba16711908" />
 
-# Q.21 What is the role of public folder in React? 
+# Q.22 What is the role of public folder in React? 
 
 <img width="1095" height="635" alt="image" src="https://github.com/user-attachments/assets/b82e7b3c-f9e7-4d3c-8399-a24a882fd69c" />
 
 
+# Q.23 What is the role of src folder in React?
+<img width="1093" height="636" alt="image" src="https://github.com/user-attachments/assets/9f6a31b5-bdb8-4495-a0e5-1aefd4ea3d68" />
 
 
 
@@ -470,6 +472,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
