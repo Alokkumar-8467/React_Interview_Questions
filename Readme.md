@@ -402,7 +402,7 @@ return "Hello";
 # Q.23 What is the role of src folder in React?
 <img width="1093" height="636" alt="image" src="https://github.com/user-attachments/assets/9f6a31b5-bdb8-4495-a0e5-1aefd4ea3d68" />
 
-
+# Q.24 What is the role of index.html page in React?
 
 
 
@@ -472,6 +472,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
