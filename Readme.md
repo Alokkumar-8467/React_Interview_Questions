@@ -414,6 +414,7 @@ return "Hello";
 
 # Q.26 What is the role od App.js file in react?
 
+<img width="1240" height="517" alt="image" src="https://github.com/user-attachments/assets/ee62e23e-72c5-4466-8a90-fefe619fa455" />
 
 
 
@@ -528,6 +529,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
