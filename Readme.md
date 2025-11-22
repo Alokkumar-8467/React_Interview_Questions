@@ -417,15 +417,11 @@ return "Hello";
 # Q.27 What is the role of Function and return inside App.js?
 <img width="1202" height="578" alt="image" src="https://github.com/user-attachments/assets/0865192a-660c-4967-8118-6c68db5099b4" />
 
-
 # Q.28 Can we have a function without a return inside App.js? 
 <img width="1204" height="704" alt="image" src="https://github.com/user-attachments/assets/8b3aed50-e2e3-4332-870a-4afa708b16df" />
 
-
-
-
-
-
+# Q.29 What is the role of export default inside App.js
+<img width="1213" height="616" alt="image" src="https://github.com/user-attachments/assets/be478024-da3a-46d2-9b5b-5c3edc7be5fc" />
 
 
 
@@ -523,6 +519,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
