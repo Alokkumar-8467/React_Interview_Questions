@@ -434,8 +434,8 @@ return "Hello";
 
 
 # Q.32 What are the advantages of JSX?
-<img width="1216" height="682" alt="image" src="https://github.com/user-attachments/assets/10d85d31-070a-4ed4-9fe2-21f35809ee08" />
-<img width="1093" height="652" alt="image" src="https://github.com/user-attachments/assets/523a53a0-d054-424f-ab30-385072ebc2a9" />
+<img width="687" height="803" alt="image" src="https://github.com/user-attachments/assets/4e0f370c-5a8b-4c33-a88f-96fb4ac67993" />
+
 
 
 
@@ -524,6 +524,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
