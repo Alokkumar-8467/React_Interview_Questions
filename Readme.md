@@ -429,7 +429,7 @@ return "Hello";
 # 4. JSX  
 <img width="851" height="582" alt="image" src="https://github.com/user-attachments/assets/0ea5213f-3969-4d97-a0ea-e65e5f9d5dc8" />
 
-
+# Q.31 What is the role of JSX in React?
 
 
 
@@ -519,6 +519,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
