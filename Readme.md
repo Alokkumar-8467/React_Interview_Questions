@@ -437,8 +437,7 @@ return "Hello";
 <img width="687" height="803" alt="image" src="https://github.com/user-attachments/assets/4e0f370c-5a8b-4c33-a88f-96fb4ac67993" />
 
 # Q.33 What is Babel?
-
-
+<img width="1167" height="661" alt="image" src="https://github.com/user-attachments/assets/06561352-51d3-4efc-8b3f-1f983a52eeb9" />
 
 
 
@@ -525,6 +524,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
