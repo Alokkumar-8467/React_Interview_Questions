@@ -440,8 +440,12 @@ return "Hello";
 <img width="1167" height="661" alt="image" src="https://github.com/user-attachments/assets/06561352-51d3-4efc-8b3f-1f983a52eeb9" />
 
 # Q.34 Whats is the role of Fragment in JSX?
-
 <img width="1238" height="715" alt="image" src="https://github.com/user-attachments/assets/ecb52b93-bc21-4b9d-8bb0-4bf0ade98b67" />
+
+
+# Q.35 What is Spread Operator in JSX?
+<img width="1212" height="689" alt="image" src="https://github.com/user-attachments/assets/b4329b98-cf48-4488-837d-65119ade091c" />
+
 
 
 
@@ -560,6 +564,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
