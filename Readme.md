@@ -450,7 +450,8 @@ return "Hello";
 <img width="1283" height="704" alt="image" src="https://github.com/user-attachments/assets/8b7998fd-e483-464d-ae65-00bc3b674218" />
 
 # Q.37 how do you iterate over a list in JSX? What is map() method?
-<img width="1208" height="576" alt="image" src="https://github.com/user-attachments/assets/1df3e198-7a77-4121-9079-5e89469abcbf" />
+<img width="1191" height="581" alt="image" src="https://github.com/user-attachments/assets/d99fa9a9-7eca-4d6b-aa07-2d8e146063a0" />
+
 
 
 
@@ -557,6 +558,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
