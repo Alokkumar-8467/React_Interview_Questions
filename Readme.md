@@ -446,8 +446,7 @@ return "Hello";
 # Q.35 What is Spread Operator in JSX?
 <img width="1212" height="689" alt="image" src="https://github.com/user-attachments/assets/b4329b98-cf48-4488-837d-65119ade091c" />
 
-
-
+# Q.36 What are the types of conditional rendering in jSX?
 
 
 
@@ -564,6 +563,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
