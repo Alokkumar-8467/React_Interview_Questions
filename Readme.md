@@ -453,6 +453,7 @@ return "Hello";
 <img width="1191" height="581" alt="image" src="https://github.com/user-attachments/assets/d99fa9a9-7eca-4d6b-aa07-2d8e146063a0" />
 
 # Q.38 Can a browser read a JSX File?
+<img width="964" height="353" alt="image" src="https://github.com/user-attachments/assets/2ba35911-7c11-4e03-8419-f8917966f982" />
 
 
 
@@ -557,6 +558,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
