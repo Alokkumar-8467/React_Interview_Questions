@@ -466,6 +466,7 @@ return "Hello";
 <img width="840" height="518" alt="image" src="https://github.com/user-attachments/assets/3f318c0a-26c8-4fad-85df-3559270832fe" />
 
 # Q.41 What are React Components? What are the main elements of it?
+<img width="1195" height="692" alt="image" src="https://github.com/user-attachments/assets/d5ab2fa7-ff90-4c05-8cb8-3e9c46c92914" />
 
 
 
@@ -557,6 +558,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
