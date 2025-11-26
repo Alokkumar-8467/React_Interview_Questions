@@ -471,7 +471,7 @@ return "Hello";
 # Q.42 What are the Types of react components? what are Functional Components?
 <img width="1252" height="667" alt="image" src="https://github.com/user-attachments/assets/b2e64c4c-20c1-467d-bc29-89f36bf56541" />
 
-
+# Q.43 How do you pass data between functional components in React?
 
 
 
@@ -559,6 +559,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
