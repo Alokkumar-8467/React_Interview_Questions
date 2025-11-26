@@ -459,6 +459,7 @@ return "Hello";
 <img width="1175" height="467" alt="image" src="https://github.com/user-attachments/assets/240b3166-c620-4ae1-a8b9-f085b0c0df92" />
 
 # Q.40 Is it possible to use JSX without React?
+<img width="791" height="438" alt="image" src="https://github.com/user-attachments/assets/7447bd39-0d80-4726-804d-6d81cc944389" />
 
 
 
@@ -554,6 +555,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
