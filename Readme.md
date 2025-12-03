@@ -484,9 +484,7 @@ return "Hello";
 # Q.46 What are Class Components in React?
 <img width="1230" height="643" alt="image" src="https://github.com/user-attachments/assets/d826949d-120f-42c9-9c39-27ef33a83548" />
 
-
-
-
+# Q.47 how to pass data between class components in React?
 
 
 
@@ -574,6 +572,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
