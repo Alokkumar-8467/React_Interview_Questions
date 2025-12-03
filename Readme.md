@@ -492,13 +492,8 @@ return "Hello";
  #### if we dont use this in class components it's create an error.
  <img width="1251" height="613" alt="image" src="https://github.com/user-attachments/assets/b3dae6b6-7e20-4c1a-b50e-e97163e50e82" />
 
-
-
-
-
-
-
-
+# Q.49 What are the 5 differences btn Functional components and Functional components?
+<img width="1146" height="666" alt="image" src="https://github.com/user-attachments/assets/8e4962e1-51e9-4512-91f7-dc4d1aa4e105" />
 
 
 
@@ -576,6 +571,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
