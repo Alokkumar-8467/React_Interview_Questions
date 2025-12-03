@@ -477,14 +477,11 @@ return "Hello";
 # Q.44 What is Prop Drilling in React?
 <img width="1188" height="715" alt="image" src="https://github.com/user-attachments/assets/1d0c9394-f53b-4d67-9e1c-98d21b5bf0b1" />
 
-
 # Q.45 Why to Avoide Prop Drilling? I how many ways can avoid Prop Drilling?
 <img width="1176" height="574" alt="image" src="https://github.com/user-attachments/assets/26c77c29-d922-44ff-aaf2-5a808400c461" />
 <img width="1131" height="539" alt="image" src="https://github.com/user-attachments/assets/6ee9d387-0f82-4c3f-91eb-5429dc4b56bf" />
 
-
-
-
+# Q.46 What are Class Components in React?
 
 
 
@@ -577,6 +574,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
