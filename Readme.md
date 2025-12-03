@@ -478,6 +478,24 @@ return "Hello";
 <img width="1188" height="715" alt="image" src="https://github.com/user-attachments/assets/1d0c9394-f53b-4d67-9e1c-98d21b5bf0b1" />
 
 
+# Q.45 Why to Avoide Prop Drilling? I how many ways can avoid Prop Drilling?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -560,6 +578,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
