@@ -500,6 +500,8 @@ return "Hello";
 <img width="857" height="447" alt="image" src="https://github.com/user-attachments/assets/9d1a0898-cca7-4443-8b05-48ab885a9679" />
 
 
+# Q.51 What is Routing and Router in React?
+
 
 
 
@@ -571,6 +573,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
