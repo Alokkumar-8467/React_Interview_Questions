@@ -504,6 +504,7 @@ return "Hello";
 <img width="1179" height="612" alt="image" src="https://github.com/user-attachments/assets/daeb10d4-a7ab-499a-806d-45a04912bc6d" />
 
 # Q.52 How to Implement Routing in React?
+<img width="1209" height="708" alt="image" src="https://github.com/user-attachments/assets/ae91d71e-bad5-474f-9ef1-4a6e9e6a445a" />
 
 
 
@@ -617,6 +618,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
