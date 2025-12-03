@@ -474,6 +474,7 @@ return "Hello";
 # Q.43 How do you pass data between functional components in React?
 <img width="1230" height="625" alt="image" src="https://github.com/user-attachments/assets/7daf0847-f48c-4654-b695-c00116122242" />
 
+# Q.44 What is Prop Drilling in React?
 
 
 
@@ -559,6 +560,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
