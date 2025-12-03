@@ -488,6 +488,9 @@ return "Hello";
 <img width="1229" height="641" alt="image" src="https://github.com/user-attachments/assets/0ef9456c-c0aa-4c48-a2fc-675ec1abbebd" />
 
 # Q.48 What is the role of this keyword in class components?
+ #### this keyword is used to refer to the instance of the class.
+ #### if we dont use this in class components it's create an error.
+ 
 
 
 
@@ -573,6 +576,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
