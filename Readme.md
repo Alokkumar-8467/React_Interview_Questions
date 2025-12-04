@@ -511,6 +511,7 @@ return "Hello";
 <img width="1226" height="472" alt="image" src="https://github.com/user-attachments/assets/d4805f1e-0c0a-496d-8ec9-1860f908ed33" />
 
 # Q.54 What are Route Parameters in React Routing?
+<img width="1230" height="298" alt="image" src="https://github.com/user-attachments/assets/3ce24467-a55a-4f2e-ad6c-dca985cbf9d7" />
 
 
 
@@ -616,6 +617,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
