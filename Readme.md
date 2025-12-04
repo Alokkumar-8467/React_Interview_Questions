@@ -514,6 +514,8 @@ return "Hello";
 <img width="1230" height="298" alt="image" src="https://github.com/user-attachments/assets/3ce24467-a55a-4f2e-ad6c-dca985cbf9d7" />
 
 # Q. 55 What is the role of Switch Components in React Routing?
+Switch always follow the first matched route. So, if switch not found the User ID then it render the first matched it. 
+if Id is present then matched with ID route and execute the ID route other-wise execute the route without ID. 
 <img width="1209" height="395" alt="image" src="https://github.com/user-attachments/assets/076c45fa-39b5-4673-9db3-cd9003b27f74" />
 
 
@@ -613,6 +615,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
