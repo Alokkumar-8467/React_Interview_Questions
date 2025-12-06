@@ -518,9 +518,7 @@ Switch always follow the first matched route. So, if switch not found the User I
 if Id is present then matched with ID route and execute the ID route other-wise execute the route without ID. 
 <img width="1209" height="395" alt="image" src="https://github.com/user-attachments/assets/076c45fa-39b5-4673-9db3-cd9003b27f74" />
 
-
-
-
+# Q.56 What is the role of exact prop in React Routing?
 
 
 
@@ -615,6 +613,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
