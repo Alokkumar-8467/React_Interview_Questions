@@ -522,7 +522,7 @@ if Id is present then matched with ID route and execute the ID route other-wise 
 <img width="1226" height="426" alt="image" src="https://github.com/user-attachments/assets/2e937db4-fd8c-4bca-a7d6-fc2f41ea1310" />
 
 
-
+# 7. Hooks -useState/ useEffect
 
 
 
@@ -613,6 +613,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
