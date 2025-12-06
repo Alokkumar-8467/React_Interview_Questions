@@ -533,6 +533,7 @@ if Id is present then matched with ID route and execute the ID route other-wise 
 
 # Q.63 What is the role of useState() hook and how it works?
 <img width="1214" height="710" alt="image" src="https://github.com/user-attachments/assets/73cc6666-c5f2-413c-a1ca-3ac7e34dd97b" />
+<img width="1034" height="646" alt="image" src="https://github.com/user-attachments/assets/6839c285-b1e8-4dcd-8d4f-860afc3517b8" />
 
 
 
@@ -643,6 +644,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
