@@ -559,7 +559,7 @@ if Id is present then matched with ID route and execute the ID route other-wise 
 <img width="1233" height="719" alt="image" src="https://github.com/user-attachments/assets/d95ca5b3-f33f-4fdb-9afb-5ffdc3f1c454" />
 
 # Q.73 When to use useContext() hook instead of props in real applications?
-
+<img width="1225" height="697" alt="image" src="https://github.com/user-attachments/assets/26eb5469-faab-4952-8ce8-d5454db9fba0" />
 
 
 
@@ -643,6 +643,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
