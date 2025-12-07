@@ -552,6 +552,7 @@ if Id is present then matched with ID route and execute the ID route other-wise 
 # 8. Hooks - useContext / useReducer  
 <img width="874" height="485" alt="image" src="https://github.com/user-attachments/assets/a479ec5b-c0b3-4c96-a36f-7aec110be7b8" />
 
+# Q.71 What is the role of useContext() hook?
 
 
 
@@ -640,6 +641,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
