@@ -545,7 +545,7 @@ if Id is present then matched with ID route and execute the ID route other-wise 
 <img width="1263" height="665" alt="image" src="https://github.com/user-attachments/assets/60ff2cd5-78bf-4827-bb59-bf2a4693e284" />
 
 
-
+# Q. 66 What is the meaning of the empty array[] in the useEffect()?
 
 
 
@@ -641,6 +641,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
