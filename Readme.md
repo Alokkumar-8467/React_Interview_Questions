@@ -549,9 +549,7 @@ if Id is present then matched with ID route and execute the ID route other-wise 
 <img width="1285" height="700" alt="image" src="https://github.com/user-attachments/assets/f6d3125a-e06d-4aff-afba-5f8aff10f0ae" />
 
 
-
-
-
+# 8. Hooks - useContext / useReducer  
 
 
 
@@ -642,6 +640,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
