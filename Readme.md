@@ -537,8 +537,7 @@ if Id is present then matched with ID route and execute the ID route other-wise 
 
 # Q.64 What is the role of useEffect(). How it works and what is its use?
 <img width="1236" height="692" alt="image" src="https://github.com/user-attachments/assets/238ec268-2313-434e-8689-cbcf96ef4f51" />
-
-
+<img width="1221" height="696" alt="image" src="https://github.com/user-attachments/assets/dc1eaf7d-2c81-4437-85d0-89c7959e0434" />
 
 
 
@@ -643,6 +642,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
