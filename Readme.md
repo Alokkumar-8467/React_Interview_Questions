@@ -7,7 +7,7 @@ React is an open-source JavaScript library developed for building user interface
 <img width="892" height="290" alt="image" src="https://github.com/user-attachments/assets/790261a6-b1a3-422a-9b34-aff89158f416" />
 
 
-# Q.2 The Role of React in Software Development.
+# Q.2 What is the Role of React in Software Development.
 ### React provides a structured, powerful, and efficient way to build the visual, interactive part of web applications, making it one of the most important and sought-after skills in software development today.
 1. Enabling Complex, Interactive User Interfaces
 2. Improving Developer Experience and Productivity
@@ -643,6 +643,7 @@ export default FunctionalComponents;
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
