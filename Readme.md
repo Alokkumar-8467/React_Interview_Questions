@@ -638,11 +638,13 @@ export default FunctionalComponents;
 ```               
 
 
+
 # Q.7 How to export and import components.
 
 We can export components using **export default or named exports**, and import them using **import**.
 
 <img width="1170" height="643" alt="7" src="https://github.com/user-attachments/assets/e0654d76-01d5-44f9-a59d-d6508b1866a6" />
+
 
 
 
